@@ -34,6 +34,5 @@ I've learning to code since 2018, starting with HTML and CSS, in this years i le
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Alfonsonrx"><img src="https://activity-graph.herokuapp.com/graph?username=Alfonsonrx&bg_color=1c1917&color=ffffff&line=ffffff&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Alfonsonrx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfonsonrx&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
