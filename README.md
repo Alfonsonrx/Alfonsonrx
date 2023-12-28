@@ -7,7 +7,7 @@ Web developer, Data Science Student
 I've learning to code since 2018, starting with HTML and CSS, in this years i learn languages like JS, PHP and Python, i specialized mostly in Python because my passion is the Data Science and Deep Learning
 
 * ✉️  You can contact me at [damian.contreras036@gmail.com](mailto:damian.contreras036@gmail.com)
-* 🧠  I'm learning Laravel and practicing Deep learning frameworks
+* 🧠  I'm learning React Native and practicing Deep learning frameworks
 * 🤝  I'm open to collaborating on Interesting projects of web development or other related to my skills
 * ⚡  I'm mostly a self-taught person
 
